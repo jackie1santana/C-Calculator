@@ -18,6 +18,18 @@ namespace c_test1
             if (op == "+")
             {
                 Console.WriteLine(num1 + num2);
+
+            } else if (op == "-") {
+
+                Console.WriteLine(num1 - num2);
+            }
+            else if (op == "/")
+            {
+                Console.WriteLine(num1 / num2);
+            }
+            else if (op == "*")
+            {
+                Console.WriteLine(num1 * num2);
             }
 
             Console.ReadLine();
