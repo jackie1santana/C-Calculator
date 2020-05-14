@@ -30,6 +30,9 @@ namespace c_test1
             else if (op == "*")
             {
                 Console.WriteLine(num1 * num2);
+            }else
+            {
+                Console.WriteLine("Invalid operator");
             }
 
             Console.ReadLine();
