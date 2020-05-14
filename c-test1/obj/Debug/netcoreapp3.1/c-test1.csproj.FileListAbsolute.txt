@@ -1,0 +1,12 @@
+/Users/JackieBandoz/Projects/c-test1/c-test1/bin/Debug/netcoreapp3.1/c-test1.deps.json
+/Users/JackieBandoz/Projects/c-test1/c-test1/bin/Debug/netcoreapp3.1/c-test1.runtimeconfig.json
+/Users/JackieBandoz/Projects/c-test1/c-test1/bin/Debug/netcoreapp3.1/c-test1.runtimeconfig.dev.json
+/Users/JackieBandoz/Projects/c-test1/c-test1/bin/Debug/netcoreapp3.1/c-test1.dll
+/Users/JackieBandoz/Projects/c-test1/c-test1/bin/Debug/netcoreapp3.1/c-test1.pdb
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.csprojAssemblyReference.cache
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.csproj.CoreCompileInputs.cache
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.AssemblyInfoInputs.cache
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.AssemblyInfo.cs
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.dll
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.pdb
+/Users/JackieBandoz/Projects/c-test1/c-test1/obj/Debug/netcoreapp3.1/c-test1.genruntimeconfig.cache
